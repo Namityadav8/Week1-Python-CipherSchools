@@ -1,0 +1,7 @@
+print("Hello \"beautiful\" world")
+print('I\'m Namit Yadav')
+print("line A\nline B\nline C")
+print("Namit\tYadav")  
+print("this is backslash\\")
+print("this is double backslash\\\\")
+print("hell\blo")
